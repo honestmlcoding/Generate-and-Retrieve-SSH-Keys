@@ -55,7 +55,7 @@ This creates:
 
 ## Step 2 — Enable & start the SSH agent (Windows way)
 
-> ⚠️ Linux/macOS uses `eval`. **Windows does NOT.**
+> Linux/macOS uses `eval`. **Windows does NOT.**
 
 Run these **exact commands**:
 
