@@ -1,6 +1,4 @@
-# Windows SSH Keys (PowerShell) — Zero‑Confusion Guide
-
-> **If you’ve ever copy‑pasted a Linux SSH command into Windows and everything exploded — this is for you.**
+# Windows SSH Keys (PowerShell) — Zero‑Confusion Guide 
 
 This guide is **Windows‑only**, **PowerShell‑only**, and intentionally boring. It works.
 
